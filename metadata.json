@@ -1,0 +1,5 @@
+{
+  "name": "Citation to .ENW Converter",
+  "description": "An intelligent tool that parses any citation text pasted by the user, converts it into the structured .ENW format, and provides a downloadable file for use in reference management software like EndNote.",
+  "requestFramePermissions": []
+}
